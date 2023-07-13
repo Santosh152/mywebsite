@@ -1,2 +1,2 @@
 # mywebsite
-My personal portfolio static website
+This is a demo website.
